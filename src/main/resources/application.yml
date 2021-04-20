@@ -1,0 +1,7 @@
+spring:
+  redis:
+    host: localhost
+    port: 6379
+    timeout: 5000
+    # 无密码可不填
+#    password: TodoPlus0314Refresh
